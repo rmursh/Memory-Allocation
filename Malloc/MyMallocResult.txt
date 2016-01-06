@@ -1,0 +1,29 @@
+Space requested is negative!
+Buffer Number 1 -> 0x1f26408
+Successfully Allocated Requested number of Bytes!
+Successfully freed requested bytes.
+Successfully found largest contiguous space
+Buffer Number 2 -> 0x1f26c10
+Successfully Allocated Requested number of Bytes!
+Successfully freed requested bytes.
+Successfully found largest contiguous space
+Successfully Allocated Requested number of Bytes!
+Successfully freed requested bytes.
+Successfully found largest contiguous space
+Buffer Number 3 -> 0x1f26408
+Successfully Allocated Requested number of Bytes!
+Successfully freed requested bytes.
+Successfully found largest contiguous space
+Successfully Allocated Requested number of Bytes!
+number of bytes freed succesful.
+Successfully found largest contiguous space
+Buffer Number 4 -> 0x1f2a410
+Successfully Allocated Requested number of Bytes!
+Successfully freed requested bytes.
+Successfully found largest contiguous space
+Successfully Allocated Requested number of Bytes!
+Successfully freed requested bytes.
+Successfully found largest contiguous space
+Successfully Allocated Requested number of Bytes!
+Successfully freed requested bytes.
+Successfully found largest contiguous space

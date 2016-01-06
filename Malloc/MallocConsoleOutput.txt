@@ -1,0 +1,46 @@
+Number of bytes currently allocated -> 0
+Free space currently available -> 0
+Largest contiguous free space currently available -> 0
+Total Mallocs requested -> 0
+Current policy applied -> 1
+Number of bytes currently allocated -> 2048
+Free space currently available -> 14336
+Largest contiguous free space currently available -> 14336
+Total Mallocs requested -> 2
+Current policy applied -> 1
+Number of bytes currently allocated -> 6144
+Free space currently available -> 10232
+Largest contiguous free space currently available -> 10232
+Total Mallocs requested -> 3
+Current policy applied -> 1
+Number of bytes currently allocated -> 4096
+Free space currently available -> 12288
+Largest contiguous free space currently available -> 10232
+Total Mallocs requested -> 3
+Current policy applied -> 1
+ 0 extra bytes allocated to Malloc
+Number of bytes currently allocated -> 6144
+Free space currently available -> 10232
+Largest contiguous free space currently available -> 10232
+Total Mallocs requested -> 4
+Current policy applied -> 1
+Number of bytes currently allocated -> 4096
+Free space currently available -> 12288
+Largest contiguous free space currently available -> 10232
+Total Mallocs requested -> 4
+Current policy applied -> 1
+Number of bytes currently allocated -> 19096
+Free space currently available -> 13672
+Largest contiguous free space currently available -> 10232
+Total Mallocs requested -> 5
+Current policy applied -> 1
+Number of bytes currently allocated -> 15000
+Free space currently available -> 17776
+Largest contiguous free space currently available -> 16392
+Total Mallocs requested -> 5
+Current policy applied -> 1
+Number of bytes currently allocated -> 0
+Free space currently available -> 32784
+Largest contiguous free space currently available -> 32784
+Total Mallocs requested -> 5
+Current policy applied -> 1
